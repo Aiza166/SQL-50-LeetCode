@@ -23,3 +23,11 @@ The aim of this repository is to:
 ## ⚡ Acknowledgments
 - [LeetCode](https://leetcode.com/) for providing the problems  
 - [LeetHub](https://github.com/QasimWani/LeetHub) for automatic synchronization  
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/Aiza166/SQL-50-LeetCode/tree/master/0584-find-customer-referee) |
+<!---LeetCode Topics End-->
